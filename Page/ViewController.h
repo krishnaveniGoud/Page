@@ -7,7 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "CAPSPageMenu.h"
+#import "viewVc1.h"
+#import "viewVc2.h"
+#import "viewVc3.h"
 @interface ViewController : UIViewController
 
 
